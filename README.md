@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Investment Research Agent
 
 ## Overview
@@ -286,3 +287,6 @@ During development, I used an LLM to discuss implementation ideas, debug issues,
 B.Tech Student
 
 Full Stack Developer
+=======
+# AI_Investment_Research_Agent
+>>>>>>> 165a6217c8d73947dfd3d930253112d716ccf83c
